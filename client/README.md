@@ -17,7 +17,7 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app w
 ## OMX BackEnd
 
 Link to our backend Repo [HERE](https://github.com/AdamMomen/omx-backend)
-Deployed backend on Heroku [HERO](https://omx-backend.herokuapp.com/)
+Deployed backend on Heroku [HERE](https://omx-backend.herokuapp.com/)
 
 ## Code scaffolding
 
